@@ -7,4 +7,7 @@
 - TimeTrack.io: iOS/Android
 - aTimelogger: iOS/Android
 - 时间块: iOS
+- Resquetime: 全平台
+- ActivityWatch: 全桌面平台
+- Wakatime: 全平台编辑器绑定
 
